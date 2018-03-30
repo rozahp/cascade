@@ -21,6 +21,6 @@ Music demo with a mix of graphics and music from old Amiga productions from arou
 
 ## [**Media**](https://github.com/rozahp/cascade/tree/master/media "Media")
 
-- Ripped old graphics (fonts and logos) from old Cascade pro
+- Ripped old graphics (fonts and logos) from old Cascade productions.
 
-# **EOF**
+### **EOF**
