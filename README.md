@@ -8,7 +8,7 @@
 
 - Memberlist: **www.cascade64.de/memberlist.php**
 
-## [**Archeology**](https://github.com/rozahp/cascade/tree/master/archeology "Archeology")
+## [/**Archeology**/](https://github.com/rozahp/cascade/tree/master/archeology "Archeology")
 
 ![alt text](https://raw.githubusercontent.com/rozahp/cascade/master/archeology/cascade-archeology/preview.png "Archology Preview Image")
 
@@ -19,7 +19,7 @@ Music demo with a mix of graphics and music from old Amiga productions from arou
 - Music: Skimmer
 
 
-## [**Media**](https://github.com/rozahp/cascade/tree/master/media "Media")
+## [/**Media**/](https://github.com/rozahp/cascade/tree/master/media "Media")
 
 - Ripped old graphics (fonts and logos) from old Cascade productions.
 
