@@ -11,7 +11,6 @@
 ## **News**
 
 - Cascade is celebrating it's 30th anniversary this spring 2018. We will try to commemorate the origin of Cascade with a special production.
-- testing
 
 ## [/**Archeology**/](https://github.com/rozahp/cascade/tree/master/archeology "Archeology")
 
