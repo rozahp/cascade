@@ -21,7 +21,7 @@ Music demo with a mix of graphics and music from Amiga productions from around 1
 Release date: 2017-02-11
 
 - Code: Phazor
-- Scrolltext: Zeldin and Phazor
+- Text: Zeldin and Phazor
 - Gfx: Lester
 - Music: Skimmer
 
