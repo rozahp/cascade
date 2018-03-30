@@ -16,7 +16,9 @@
 
 ![alt text](https://raw.githubusercontent.com/rozahp/cascade/master/archeology/cascade-archeology/preview.png "Archology Preview Image")
 
-Music demo with a mix of graphics and music from old Amiga productions from around 1990. Released on wab.com (we are back): 2017-02-22 (http://wab.com/?screen=484)
+Music demo with a mix of graphics and music from old Amiga productions from around 1990. Released on wab.com (we are back) (http://wab.com/?screen=484). 
+
+Release date: 2017-02-11
 
 - Code: Phazor
 - Scrolltext: Zeldin and Phazor
