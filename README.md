@@ -45,9 +45,4 @@ Some excerpts from history ... more you can find at **www.cascade64.de**
     - Gfx: Lester
     - Music: Skimmer
 
-
-
-
- 
-
 ### **EOF**
