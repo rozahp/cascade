@@ -32,7 +32,7 @@ Release date: 2017-02-11
 
 ## History
 
-Some excerts from history ... more you can find at **www.cascade64.de**
+Some excerpts from history ... more you can find at **www.cascade64.de**
 
 - [Amiga: Rising - released 1990](https://www.youtube.com/watch?v=b5F-gIDw9JU "Rising 1990")
     - Code: Astaroth, Phazor
