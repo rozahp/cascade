@@ -32,7 +32,22 @@ Release date: 2017-02-11
 
 ## History
 
-- [Rising 1990](https://www.youtube.com/watch?v=zdFUWSPha5Q "Rising 1990")
+Some excerts from history ... more you can find at **www.cascade64.de**
+
+- [Amiga: Rising - released 1990](https://www.youtube.com/watch?v=b5F-gIDw9JU "Rising 1990")
+    - Code: Astaroth, Phazor
+    - Gfx: Lester
+    - Music: Skimmer
+    - Text: Mastermind
+
+- [Amiga: Vector Intro - released 1990](https://www.youtube.com/watch?v=_Ojm3uXHCuM "Vector Intro 1990")
+    - Code: Astaroth, Phazor
+    - Gfx: Lester
+    - Music: Skimmer
+
+
+
+
  
 
 ### **EOF**
