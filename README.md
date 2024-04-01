@@ -18,9 +18,7 @@
 
 Music demo with a mix of graphics and music from Amiga productions from around 1990. Released on wab.com (we are back) (http://wab.com/). 
 
-Release date: 2017-02-11
-
-[JavaScript: Archeology - release 2017](https://www.youtube.com/watch?v=120XHU2wJfI "Archeology 2017")  
+[JavaScript Demo: Archeology - released 2017](https://www.youtube.com/watch?v=120XHU2wJfI "Archeology 2017")  
 
 - Code: Phazor
 - Text: Zeldin and Phazor
