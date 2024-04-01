@@ -16,9 +16,11 @@
 
 ![alt text](https://github.com/rozahp/cascade/raw/master/archeology/cascade-archeology/preview.png "Archology Preview Image")
 
-Music demo with a mix of graphics and music from Amiga productions from around 1990. Released on wab.com (we are back) (http://wab.com/?screen=484). 
+Music demo with a mix of graphics and music from Amiga productions from around 1990. Released on wab.com (we are back) (http://wab.com/). 
 
 Release date: 2017-02-11
+
+[JavaScript: Archeology - release 2017](https://www.youtube.com/watch?v=120XHU2wJfI "Archeology 2017")  
 
 - Code: Phazor
 - Text: Zeldin and Phazor
@@ -32,13 +34,7 @@ Release date: 2017-02-11
 
 ## History
 
-Some excerpts from history ... more you can find at **www.cascade64.de**
-
-- [JavaScript: Archeology - release 2017](https://www.youtube.com/watch?v=120XHU2wJfI "Archeology 2017")
-    - Code: Phazor
-    - Gfx: Lester
-    - Music: Skimmer
-    - Text: Phazor and Zeldin
+Some excerpts from history ... you can find more at **www.cascade64.de**
 
 - [Amiga: Rising - released 1990](https://www.youtube.com/watch?v=b5F-gIDw9JU "Rising 1990")
     - Code: Astaroth, Phazor
