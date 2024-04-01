@@ -34,6 +34,12 @@ Release date: 2017-02-11
 
 Some excerpts from history ... more you can find at **www.cascade64.de**
 
+- [JavaScript: Archeology - release 2017](https://www.youtube.com/watch?v=120XHU2wJfI "Archeology 2017")
+    - Code: Phazor
+    - Gfx: Lester
+    - Music: Skimmer
+    - Text: Phazor and Zeldin
+
 - [Amiga: Rising - released 1990](https://www.youtube.com/watch?v=b5F-gIDw9JU "Rising 1990")
     - Code: Astaroth, Phazor
     - Gfx: Lester
